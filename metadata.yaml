@@ -1,11 +1,16 @@
 _repo: Justin-Morgan-founder-of-his-race-b-the-romantic-history-of-a-horse_74814
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74814-h/images/cover.jpg
 creator:
   author:
     agent_name: Burnham, Eleanor Waring
     gutenberg_agent_id: '57664'
     url: http://www.gutenberg.org/2009/agents/57664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74814#Justin-Morgan-founder-of-his-race-b-the-romantic-history-of-a-horse
 gutenberg_issued: '2024-11-30'
 gutenberg_type: Text
 identifiers:
